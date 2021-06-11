@@ -1,0 +1,161 @@
+body{
+    background-color: rgb(216, 238, 212);
+}
+.div1{
+    background-color: rgba(218, 118, 118, 0.582);
+    color: teal;
+    text-align: center;
+    font-size: large;
+}
+.div1 .h1_1{
+    text-decoration: underline;
+}
+.div1 .p1{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.div2{
+    width: 100%;
+    background-color:black;
+    overflow:auto;
+}
+.div2 a{
+    float:left;
+    text-align:center;
+    width:20%;
+    padding:12px 0;
+    transition: all 0.5s ease;
+    color:greenyellow;
+    font-size:25px;
+    text-decoration: none;
+    margin-left: 5%;
+}
+.div2 a:hover{
+    background-color:rgba(230, 158, 50, 0.589);
+}
+.active{
+    background-color: rgba(230, 158, 50, 0.589);
+}
+
+#bio{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.div3{
+    background-color: palegoldenrod;
+    /* text-align: center; */
+}
+
+.img1{
+    width: 150px;   
+    height: 200px;
+    padding-top: 10px;
+    float: left;
+}
+
+.p3{
+    color:black;
+    font-size: x-large;
+    font-family: 'Mate SC', serif;
+    font-weight: bold;
+    text-align: justify;
+}
+
+#button1{
+    background-color:black;
+    text-decoration:none;
+    border:orange;
+    color:white;
+    text-align: center;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 20%;
+}
+
+.td2{
+    font-weight: 550;
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    color:white;
+    padding:5px;
+    background-color: rgba(0, 0, 0, 0.712);
+}
+
+.td1{
+    padding: 3px;
+    background-color: rgba(0, 128, 128, 0.555);
+}
+#education{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+#work{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+.td4{
+    font-weight: 550;
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    color:white;
+    padding:5px;
+    background-color: rgb(238, 150, 118);
+}
+
+.td3{
+    padding: 3px;
+    background-color: rgb(238, 218, 108);
+}
+form{
+    background-color: rgba(7, 7, 7, 0.76);
+    border-top: dimgray;
+}
+label{
+    color:white;
+}
+legend{
+    color:tomato;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.div6{
+    background-color:black;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.fa:hover {
+    opacity: 0.7;
+  }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
